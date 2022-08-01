@@ -1,0 +1,12 @@
+.list7 {
+    background-image: url(" https://img.freepik.com/free-photo/different-healt…s-grocery-online-shop-banner_427957-770.jpg?w=996");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 79vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+ 

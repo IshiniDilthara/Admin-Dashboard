@@ -1,0 +1,54 @@
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+ 
+ 
+}
+
+.left {
+  left: 0;
+  width: 60%;
+  margin-left: 0px;
+ 
+ 
+  background-image:url("https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+ background-position: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+background-clip: border-box;
+height: 105vh;
+
+}
+.descri{
+  margin-left: 200px;
+  margin-top: 200px;
+  
+}
+.right {
+    right: 0;
+  width: 40%;
+  
+ justify-items: center;
+  margin-right: 0px;
+  margin-top: 0px;
+  background-color: rgb(108, 161, 194);
+}
+.second{
+  margin-left: 200px;
+  margin-top: 220px;
+  justify-items: center;
+}
+.topic{
+  margin-left: -50px;
+}
+.first{
+  margin-left: 450px;
+
+}
+h1{
+  margin-left: 100px;
+}

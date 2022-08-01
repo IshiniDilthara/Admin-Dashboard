@@ -1,0 +1,21 @@
+ 
+.type{
+    position: relative;
+    height: 100vh;
+    padding-right: 200px;
+    padding-left: 200px;
+    justify-content: 'space-between';
+}
+    .leftbut{
+      position: relative;
+      width: 50%;
+      height: 40%;
+     
+     
+    }
+  
+    .rightbut{
+        position: relative;
+        width: 50%;
+        height: 40%;
+      }   

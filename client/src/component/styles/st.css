@@ -1,0 +1,63 @@
+
+ .page{
+  background-image: url("https://i1.wp.com/billionaire365.com/wp-content/uploads/2019/02/Ecommerce-Website.jpg?fit=2048%2C1452&ssl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: 97vh;
+
+
+} 
+
+ .container {
+ 
+ 
+    width: 400px;
+    height: max-content;
+    margin: auto;
+    background-color: #cac3c3;
+    padding: 20px 15px;
+   margin-top: 10px;
+    border-radius: 7px;
+    font-family: Roboto, sans-serif;
+    box-shadow: 10px 11px rgba(0, 0, 0, 0.7);
+   
+    align-items: center;
+  
+  }
+  h1 {
+    margin: 0;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .login-form {
+    padding: 5px;
+    
+  }
+  
+  .form-field {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .form-error {
+    display: block;
+    color: red;
+    font-size: 0.9em;
+    font-weight: 600;
+  }
+  
+  Button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+  }
+  .visibility{
+    display: inline-block;
+    
+  }
+  Button:hover {
+    background-color: rgb(26, 25, 25);
+}
