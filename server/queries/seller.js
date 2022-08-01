@@ -241,8 +241,8 @@ seller.post("/sellerReg", async(req, res) => {
   const db = mariadb.createPool({
     user: "root",
     host: "localhost",
-    password: "Ishdil",
-    database: "dy",
+    password: "***",
+    database: "***",
   });
 
 module.exports=seller
